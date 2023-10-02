@@ -1,0 +1,19 @@
+		** Welcome Customer **
+Bill Number: 776
+
+Customer Name: Muruga
+
+Customer Phone Number: 1111111111
+
+=======================================================Product			 Quantity 			 Price
+=======================================================
+Face Wash 			1			100 Rs
+Sugar 			1			50 Rs
+Coke 			1			20 Rs
+------------------------------------------------
+Cosmatic Tax 				12.0 Rs
+Grocery Tax 				6.0 Rs
+Cosmatic Tax 				2.4 Rs
+
+Total Bill 				190.4
+-------------------------------------------------
